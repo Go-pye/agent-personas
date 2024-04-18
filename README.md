@@ -1,2 +1,2 @@
 # agent-personas
-different prompt directives to shape AI output
+different prompt directives to shape LLM output
